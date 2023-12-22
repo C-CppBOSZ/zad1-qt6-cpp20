@@ -1,0 +1,14 @@
+# ninja log v5
+2572	2836	1701330615938011140	untitled9	c89ad77cabc6da0d
+2	18	1701330613124693245	untitled9_autogen/mocs_compilation.cpp	43b52f2dea1ccff2
+2	18	1701330613124693245	/home/bogusz/CLionProjects/untitled9/cmake-build-debug/untitled9_autogen/timestamp	43b52f2dea1ccff2
+2	18	1701330613124693245	untitled9_autogen/timestamp	43b52f2dea1ccff2
+27	40	1701092562231403651	CMakeFiles/untitled9.dir/untitled9_autogen/mocs_compilation.cpp.o	11fe092dbc84f770
+2	18	1701330613124693245	/home/bogusz/CLionProjects/untitled9/cmake-build-debug/untitled9_autogen/mocs_compilation.cpp	43b52f2dea1ccff2
+19	2572	1701330615678012567	CMakeFiles/untitled9.dir/main.cpp.o	f528e16b8b0afc9e
+1	10	1703261761083565245	untitled9_autogen/timestamp	43b52f2dea1ccff2
+1	10	1703261761083565245	untitled9_autogen/mocs_compilation.cpp	43b52f2dea1ccff2
+1	10	1703261761083565245	/home/bogusz/CLionProjects/untitled9/cmake-build-debug/untitled9_autogen/timestamp	43b52f2dea1ccff2
+1	10	1703261761083565245	/home/bogusz/CLionProjects/untitled9/cmake-build-debug/untitled9_autogen/mocs_compilation.cpp	43b52f2dea1ccff2
+11	2510	1703261763583559222	CMakeFiles/untitled9.dir/main.cpp.o	f528e16b8b0afc9e
+2510	2791	1703261763863558548	untitled9	d1ff457029b2a609
